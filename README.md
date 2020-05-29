@@ -3,7 +3,7 @@
 # bWAPP MUSCLE EDITION - README
 --------------
 
-[![Build Status](https://travis-ci.org/darkreader/darkreader.svg?branch=master)](https://travis-ci.org/darkreader/darkreader)
+[![Build Status](https://github.com/ezzio-salas/bwapp-code)
 
 ![Readme screenshot](https://i.cbc.ca/1.3473565.1489087511!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/programming-code.jpg)
 
