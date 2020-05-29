@@ -71,8 +71,7 @@ This project is part of the ITSEC GAMES project. ITSEC GAMES are a fun approach 
 IT security, ethical hacking, training and fun... all mixed together.
 You can find more about the ITSEC GAMES and bWAPP projects on our blog.
  
-
-Cheers
+Muscle Geek Version special thanks to  mate
 
 Malik Mesellem
 Twitter: @MME_IT
