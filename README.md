@@ -1,7 +1,11 @@
 
 --------------
-bWAPP - README
+# bWAPP - README
 --------------
+
+[![Build Status](https://travis-ci.org/darkreader/darkreader.svg?branch=master)](https://travis-ci.org/darkreader/darkreader)
+
+![Readme screenshot](https://i.cbc.ca/1.3473565.1489087511!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_780/programming-code.jpg)
 
 bWAPP, or a buggy web application, is a deliberately insecure web application.
 bWAPP helps security enthusiasts, developers and students to discover and to prevent web vulnerabilities.
@@ -10,8 +14,8 @@ What makes bWAPP so unique? Well, it has over 60 web bugs!
 bWAPP covers all major known web vulnerabilities, including all risks from the OWASP Top 10 project!
 It is for security-testing and educational purposes only.
 
-It includes:
-Custom Includes
+## It includes:
+### Custom Includes
 
 */ Fixed SQL Files for PHP Connections
 /* Custom UI/Updates
