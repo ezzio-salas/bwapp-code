@@ -17,7 +17,7 @@ It is for security-testing and educational purposes only.
 ## It includes:
 ### Custom Muscle-Geek Includes
 
-*/ Fixed SQL Files for PHP Connections
+/* Fixed SQL Files for PHP Connections
 /* Custom UI/Updates
 /* mysql_query to mysqli for PHP 7
 
