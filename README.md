@@ -76,6 +76,11 @@ Muscle Geek Version special thanks to  mate
 Malik Mesellem
 Twitter: @MME_IT
 
-#Upcoming 
-##Next release
-Coldfusion Custom Tags tweaks
+# Upcoming 
+##  Next release
+
+Coldfusion Custom Tags tweaks.
+Vulnerable code in the editor
+Vulnerability or type of attack (Error and Warning)
+Severity level of vulnerability (High, Medium, and Low)
+Suggestion to avoid the vulnerability.
