@@ -1,6 +1,6 @@
 
 --------------
-# bWAPP - README
+# bWAPP MUSCLE EDITION - README
 --------------
 
 [![Build Status](https://travis-ci.org/darkreader/darkreader.svg?branch=master)](https://travis-ci.org/darkreader/darkreader)
@@ -15,22 +15,22 @@ bWAPP covers all major known web vulnerabilities, including all risks from the O
 It is for security-testing and educational purposes only.
 
 ## It includes:
-### Custom Includes
+### Custom Muscle-Geek Includes
 
 */ Fixed SQL Files for PHP Connections
 /* Custom UI/Updates
 /* mysql_query to mysqli for PHP 7
 
 
-*/ Injection vulnerabilities like SQL, SSI, XML/XPath, JSON, LDAP, HTML, OS Command and SMTP injection
+*/ Injection vulnerabilities like SQL, SSI, XML/XPath, JSON, LDAP, HTML, OS Command and SMTP injection.
 
-*/ Cross-Site Scripting (XSS), Cross-Site Tracing (XST) and Cross-Site Request Forgery (CSRF)
+*/ Cross-Site Scripting (XSS), Cross-Site Tracing (XST) and Cross-Site Request Forgery (CSRF).
 
-*/ Unrestricted file uploads and backdoor files
+*/ Unrestricted file uploads and backdoor files.
 
-*/ Authentication, authorization and session management issues
+*/ Authentication, authorization and session management issues.
 
-*/ PHP-CGI and OpenSSL (heartbleed) vulnerabilities
+*/ PHP-CGI and OpenSSL (heartbleed) vulnerabilities.
 
 */ Arbitrary file access and directory traversals
 
