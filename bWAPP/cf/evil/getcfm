@@ -1,0 +1,26 @@
+https://www.google.com/search?client=firefox-b-e&ei=uDrYXprZNoOxtQaulKD4Dg&q=inurl%3Aindex.cfm&oq=inurl%3Aindex.cfm&gs_lcp=CgZwc3ktYWIQA1DNRljrSmDeTWgBcAB4AIABpgGIAaMEkgEDMC40mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwialZ-w7ubpAhWDWM0KHS4KCO8Q4dUDCAs&uact=5
+https://www.google.com/search?
+    ---client=firefox-b-e&
+    ---ei=uDrYXprZNoOxtQaulKD4Dg&
+    ---q=inurl%3Aindex.cfm&
+    ---oq=inurl%3Aindex.cfm&/*GET SITES USING CFML*/
+    ---gs_lcp=CgZwc3ktYWIQA1DNRljrSmDeTWgBcAB4AIABpgGIAaMEkgEDMC40mAEAoAEBqgEHZ3dzLXdpeg&
+    ---sclient=psy-ab&
+    ---ved=0ahUKEwialZ-w7ubpAhWDWM0KHS4KCO8Q4dUDCAs&
+    --uact=5
+
+Help from Google ...
+--filetype:cfm"cfapplicationname"
+---inurl:login.cfm
+---intitle:"Error Occurred" "The error occurred in" filetype:cfm
+---intitle:"ColdFusion Administrator Login“
+---intitle:"Index of" cfide
+
+GET ALL SITES RUNNING CFML
+---inurl:/CFIDE/componentutils
+
+ENTERPRISE VS STANDAR?
+
+--404 will return from a JSP  x Request
+--500 will return from JSP x request
+
