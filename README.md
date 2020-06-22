@@ -88,3 +88,10 @@ Vulnerability or type of attack (Error and Warning).
 Severity level of vulnerability (High, Medium, and Low).
 
 Suggestion to avoid the vulnerability.
+
+# Security Analyzer (New)
+## API for COldfusion Builder Analyzer 
+
+Coldfusion API for Analyze Code
+
+Coldfusion CLI
